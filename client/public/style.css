@@ -1,0 +1,140 @@
+@font-face {
+     font-family: 'comic-sans';
+     src: url('./assets/fonts/comici.ttf');
+ }
+
+ @font-face {
+     font-family: 'Comic Sans MS';
+     src: url('./assets/fonts/comicz.ttf');
+ }
+
+ .bold {
+     font-family: 'Comic Sans MS';
+     font-weight: bold;
+ }
+
+ body {
+     background: url('/assets/imgs/background.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     font-family: 'comic-sans';
+     width: 100vw;
+     overflow-x: hidden;
+ }
+
+ .splide__arrow svg{
+    fill: #fff !important;
+    height: 25px !important;
+    width: 25px !important;
+ }
+ .splide__arrow--prev {
+     top: 60% !important;
+ }
+
+ .splide__arrow--next {
+     top: 60% !important;
+ }
+@media (max-width: 568px) {
+    .splide__arrow--prev {
+        left: 0% !important;
+    }
+    .splide__arrow--next {
+         right: 2% !important;
+        }
+
+}
+
+ .loading-on-load {
+     background: url('/assets/imgs/background.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+       overflow-x: hidden;
+       width: 100vw;
+
+ }
+
+ .header-btn {
+     background: url('/assets/imgs/header/headerBtn.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height: 80%;
+     width: auto;
+     padding: 15px;
+     text-align: center;
+     vertical-align: middle;
+     display: flex;
+     justify-content: center;
+     align-items: center
+ }
+
+ .dms-block {
+     background: url('/assets/imgs/header/dms.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .dms-btn {
+     background: url('/assets/imgs/header/dmsBtn.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .header-Connect-btn {
+     background: url('/assets/imgs/header/connectBtn.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .announcementBar {
+     background: url('/assets/imgs/header/Announcement.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .headingBox {
+     background: url('/assets/imgs/HeadingBox.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .findDearMonster {
+     background: url('/assets/imgs/BoardForFindMonster.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .filterCheckBtn {
+     background: url('/assets/imgs/filterCheckBtn.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .discoveryCaveBg {
+     background: url('/assets/imgs/discoveryCaveBg.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .instructionsBoard {
+     background: url('/assets/imgs/instructionBoard.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ .timerBoard {
+     background: url('/assets/imgs/timerBoard.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 100%;
+ }
+
+ 
