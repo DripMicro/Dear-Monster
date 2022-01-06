@@ -1,0 +1,492 @@
+[
+    {
+         "id": "1",
+         "title": "Scylla",
+         "cetagory": "Dragons",
+         "img": "/assets/gif/Dragon (1)/1. Dragon animated.gif",
+         
+         "totalRating": 5,
+         "level": "1",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "1000"
+     }, 
+     {
+         "id": "2",
+         "title": "Scylla",
+         "cetagory": "Dragons",
+         "img": "/assets/gif/Dragon (1)/2. Dragon animated.gif",
+         
+         "totalRating": 5,
+         "level": "2",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "2000"
+     }, 
+     {
+         "id": "3",
+         "title": "Scylla",
+         "cetagory": "Dragons",
+         "img": "/assets/gif/Dragon (1)/3. Dragon animated.gif",
+         
+         "totalRating": 5,
+         "level": "3",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "3000"
+     },
+    {"id": "4",
+    "title": "Helia",
+    "cetagory": "Birds",
+    "img": "/assets/gif/birds/1. Bird animated.gif",
+    
+    "totalRating": 5,
+    "level": "1",
+    "values": {
+        "Level": "1",
+        "Element": "None",
+        "EXP": "0",
+        "Energy": 2,
+        "OwnerID": "A34500"
+    },
+    "price": "1000"
+}, {
+    "id": "5",
+    "title": "Helia",
+    "cetagory": "Birds",
+    "img": "/assets/gif/birds/2. Bird animated.gif",
+    
+    "totalRating": 5,
+    "level": "2",
+    "values": {
+        "Level": "1",
+        "Element": "None",
+        "EXP": "0",
+        "Energy": 2,
+        "OwnerID": "A34500"
+    },
+    "price": "2000"
+}, {
+    "id": "6",
+    "title": "Helia",
+    "cetagory": "Birds",
+    "img": "/assets/gif/birds/3. Bird animated.gif",
+    
+    "totalRating": 5,
+    "level": "3",
+    "values": {
+        "Level": "1",
+        "Element": "None",
+        "EXP": "0",
+        "Energy": 2,
+        "OwnerID": "A34500"
+    },
+    "price": "3000"
+},
+     {
+         "id": "7",
+         "title": "Krokodilos",
+         "cetagory": "crocodiles",
+         "img": "/assets/gif/Crocodile/1. Crocodile animated.gif",
+         
+         "totalRating": 5,
+         "level": "1",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "1000"
+     }, {
+         "id": "8",
+         "title": "Krokodilos",
+         "cetagory": "crocodiles",
+         "img": "/assets/gif/Crocodile/2. Crocodile animated.gif",
+         
+         "totalRating": 5,
+         "level": "2",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "2000"
+     }, 
+     {
+         "id": "9",
+         "title": "Krokodilos",
+         "cetagory": "crocodiles",
+         "img": "/assets/gif/Crocodile/3. Crocodile animated.gif",
+         
+         "totalRating": 5,
+         "level": "3",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "3000"
+     },
+     {
+         "id": "10",
+         "title": "Nixie",
+         "cetagory": "Nixie",
+         "img": "/assets/gif/3 Eevee set (1)/1. Eevee animated.gif",
+         
+         "totalRating": 5,
+         "level": "1",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "1000"
+     },
+     {
+         "id": "11",
+         "title": "Nixie",
+         "cetagory": "Nixie",
+         "img": "/assets/gif/3 Eevee set (1)/2. Eevee animated.gif",
+         
+         "totalRating": 5,
+         "level": "2",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "2000"
+     },
+     {
+         "id": "12",
+         "title": "Nixie",
+         "cetagory": "Nixie",
+         "img": "/assets/gif/3 Eevee set (1)/3. Eevee animated.gif",
+         
+         "totalRating": 5,
+         "level": "3",
+         "values": {
+             "Level": "1",
+             "Element": "None",
+             "EXP": "0",
+             "Energy": 2,
+             "OwnerID": "A34500"
+         },
+         "price": "3000"
+     },
+      {
+          "id": "13",
+          "title": "Moloch",
+          "cetagory": "Hydra",
+          "img": "/assets/gif/Hydra (1)/1. Hydra animated.gif",
+          
+          "totalRating": 5,
+          "level": "1",
+          "values": {
+              "Level": "1",
+              "Element": "None",
+              "EXP": "0",
+              "Energy": 2,
+              "OwnerID": "A34500"
+          },
+          "price": "1000"
+      }, {
+          "id": "14",
+          "title": "Moloch",
+          "cetagory": "Hydra",
+          "img": "/assets/gif/Hydra (1)/2. Hydra animated.gif",
+          
+          "totalRating": 5,
+          "level": "2",
+          "values": {
+              "Level": "1",
+              "Element": "None",
+              "EXP": "0",
+              "Energy": 2,
+              "OwnerID": "A34500"
+          },
+          "price": "2000"
+      }, {
+          "id": "15",
+          "title": "Moloch",
+          "cetagory": "Hydra",
+          "img": "/assets/gif/Hydra (1)/3. Hydra animated.gif",
+          
+          "totalRating": 5,
+          "level": "3",
+          "values": {
+              "Level": "1",
+              "Element": "None",
+              "EXP": "0",
+              "Energy": 2,
+              "OwnerID": "A34500"
+          },
+          "price": "3000"
+      },
+       {
+           "id": "16",
+           "title": "Ryuu",
+           "cetagory": "Turtle",
+           "img": "/assets/gif/Turtle/1. turtle animated.gif",
+           
+           "totalRating": 5,
+           "level": "1",
+           "values": {
+               "Level": "1",
+               "Element": "None",
+               "EXP": "0",
+               "Energy": 2,
+               "OwnerID": "A34500"
+           },
+           "price": "1000"
+       }, {
+           "id": "17",
+           "title": "Ryuu",
+           "cetagory": "Turtle",
+           "img": "/assets/gif/Turtle/2. turtle animated.gif",
+           
+           "totalRating": 5,
+           "level": "2",
+           "values": {
+               "Level": "1",
+               "Element": "None",
+               "EXP": "0",
+               "Energy": 2,
+               "OwnerID": "A34500"
+           },
+           "price": "2000"
+       }, {
+           "id": "18",
+           "title": "Ryuu",
+           "cetagory": "Turtle",
+           "img": "/assets/gif/Turtle/3. turtle animated.gif",
+           
+           "totalRating": 5,
+           "level": "3",
+           "values": {
+               "Level": "1",
+               "Element": "None",
+               "EXP": "0",
+               "Energy": 2,
+               "OwnerID": "A34500"
+           },
+           "price": "3000"
+       }, {
+            "id": "19",
+            "title": "Zondar",
+            "cetagory": "Zondar",
+            "img": "/assets/gif/Zondar/1. Zondar animated.gif",
+            
+            "totalRating": 5,
+            "level": "1",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "20",
+            "title": "Zondar",
+            "cetagory": "Zondar",
+            "img": "/assets/gif/Zondar/2. Zondar animated.gif",
+            
+            "totalRating": 5,
+            "level": "2",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "21",
+            "title": "Zondar",
+            "cetagory": "Zondar",
+            "img": "/assets/gif/Zondar/3. Zondar animated.gif",
+            
+            "totalRating": 5,
+            "level": "3",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "22",
+            "title": "Zagan",
+            "cetagory": "Zagan",
+            "img": "/assets/gif/Zegan/1. Zegan animated.gif",
+            
+            "totalRating": 5,
+            "level": "1",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "23",
+            "title": "Zagan",
+            "cetagory": "Zagan",
+            "img": "/assets/gif/Zegan/2. Zegan animated.gif",
+            
+            "totalRating": 5,
+            "level": "2",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "24",
+            "title": "Zagan",
+            "cetagory": "Zagan",
+            "img": "/assets/gif/Zegan/3. Zegan animated.gif",
+            
+            "totalRating": 5,
+            "level": "3",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "25",
+            "title": "Trox",
+            "cetagory": "Trox",
+            "img": "/assets/gif/Trox/1. Trox animated.gif",
+            
+            "totalRating": 5,
+            "level": "1",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "26",
+            "title": "Trox",
+            "cetagory": "Trox",
+            "img": "/assets/gif/Trox/2. Trox animated.gif",
+            
+            "totalRating": 5,
+            "level": "2",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "27",
+            "title": "Trox",
+            "cetagory": "Trox",
+            "img": "/assets/gif/Trox/3. Trox animated.gif",
+            
+            "totalRating": 5,
+            "level": "3",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "28",
+            "title": "Bumble",
+            "cetagory": "Bumble",
+            "img": "/assets/gif/Bumble/1. Bumble animated.gif",
+            
+            "totalRating": 5,
+            "level": "1",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "29",
+            "title": "Bumble",
+            "cetagory": "Bumble",
+            "img": "/assets/gif/Bumble/2. Bumble animated.gif",
+            
+            "totalRating": 5,
+            "level": "2",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }, {
+            "id": "30",
+            "title": "Bumble",
+            "cetagory": "Bumble",
+            "img": "/assets/gif/Bumble/3. Bumble animated.gif",
+            
+            "totalRating": 5,
+            "level": "3",
+            "values": {
+                "Level": "1",
+                "Element": "None",
+                "EXP": "0",
+                "Energy": 2,
+                "OwnerID": "A34500"
+            },
+            "price": "3000"
+        }      
+]
