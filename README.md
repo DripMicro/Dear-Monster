@@ -1,2 +1,5 @@
 # Dear-Monster
-React Web3 Solidity
+
+### Caractors for Game.
+  It buy only DMS Token.
+
